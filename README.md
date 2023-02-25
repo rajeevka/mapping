@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+#HOST https://effortless-biscuit-9c38e4.netlify.app/
 ## Available Scripts
 
 In the project directory, you can run:
